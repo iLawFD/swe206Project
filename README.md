@@ -6,3 +6,4 @@ The students can register in these tournaments
 
 
 ![Uploading Screenshot (9).png…]()
+![Uploading Screenshot (17).png…]()
