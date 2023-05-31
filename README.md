@@ -52,7 +52,11 @@ if there is a draw you have to enter other details to determine who won ( the nu
 # Register student
 here the admin can setup a profile for students and or add students to tournaments
 and after creating a profile, an email will be send to the student's profile 
+
 ![Screenshot (16)](https://github.com/iLawFD/swe206Project/assets/88871860/0f3faf06-7640-4abf-bc20-920707c1793f)
+You can also then search for the student you registered in the main scene
+![Screenshot (17)](https://github.com/iLawFD/swe206Project/assets/88871860/8d568850-b131-4c0b-9bc5-83ca8435250c)
+
 
 
 # Student scene 
