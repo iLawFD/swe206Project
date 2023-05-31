@@ -5,3 +5,4 @@ The admins can create/modify tournaments
 The students can register in these tournaments
 
 
+![Uploading Screenshot (9).png…]()
