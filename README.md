@@ -20,6 +20,7 @@ This where the admin can record tournment, add sports && remove sports, add/modi
 
 
 
+
 # Record tournment
 this where you can create tournment with any sport you added
 There 5 options (1 - Team round robin,  2 - Indv round robin , 3 - Team Elimination,  4 - Indv Elimination , 5 invalid input (wrong name or date or empty feilds ) 
@@ -29,3 +30,36 @@ There 5 options (1 - Team round robin,  2 - Indv round robin , 3 - Team Eliminat
 # Adding player to the tournament 
 Here you can add teams to team tournment or students to indv tournment 
 ![Screenshot (13)](https://github.com/iLawFD/swe206Project/assets/88871860/7b4c4892-4bf8-4f51-b886-e5296eb4fb82)
+
+
+# Generating a table & seeing the table of matches
+
+After adding 6 teams, we can generate a table of matches ( with the number being the day diff between matches)
+
+![Screenshot (14)](https://github.com/iLawFD/swe206Project/assets/88871860/3ee666d0-f669-476f-9da2-dfc75441c43a)
+
+![Screenshot (15)](https://github.com/iLawFD/swe206Project/assets/88871860/7a23309a-29c4-4a78-8ed7-f99106485db6)
+
+# Matches
+Here you can see the matches of all tournaments and search for them by date ( including the one we generated above)
+Now we can just select a match. Enter its scores and accordingly the table of matches of this tournmanet will change 
+
+( For Elmination you have to first enter half of matches's scores to be able to generate the rest of the matches (to know who will play againts whom ). For round robin there is ro ristrick
+you can just enter the score of the first matche or the first two matches  the points will be calculted and if you press get winner the one with highest point will be displayed
+if there is a draw you have to enter other details to determine who won ( the number of goals)
+![Screenshot (18)](https://github.com/iLawFD/swe206Project/assets/88871860/fcb99e55-a20a-477a-bfc3-1a9929a36981)
+
+# Register student
+here the admin can setup a profile for students and or add students to tournaments
+and after creating a profile, an email will be send to the student's profile 
+![Screenshot (16)](https://github.com/iLawFD/swe206Project/assets/88871860/0f3faf06-7640-4abf-bc20-920707c1793f)
+
+
+# Student scene 
+
+it is almost the same as that of the admin's but with out the abilty to create & modify tournment & modify matches 
+so the students can only register in tournaments 
+![MicrosoftTeams-image](https://github.com/iLawFD/swe206Project/assets/88871860/b6f25261-4cab-4295-9fa1-fe95100a36e7)
+
+
+
