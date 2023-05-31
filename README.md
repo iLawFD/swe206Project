@@ -8,8 +8,8 @@ The students can register in these tournaments
 # LogIn
 
 This is where the users enter their info and scene transtion is API response based ( it will determine wether the user is student or admin or neth)
+![ed](https://github.com/iLawFD/swe206Project/assets/88871860/1dfc7cae-f31d-494c-97c6-bd0aa59bb28a)
 
-![Screenshot EDITED](https://github.com/iLawFD/swe206Project/assets/88871860/be8b218f-15c9-4d1a-9593-ee68226c56ed)
 
 
 
