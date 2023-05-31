@@ -4,6 +4,3 @@ It is a system for handling tournment registerion
 The admins can create/modify tournaments 
 The students can register in these tournaments
 
-
-![Uploading Screenshot (9).png…]()
-![Uploading Screenshot (17).png…]()
