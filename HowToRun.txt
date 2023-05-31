@@ -1,0 +1,11 @@
+(note: Its very hard to open it from another machiene because of the diffrent enviorments and binary file placage but we will try out best to show steps to do it)
+
+1- open the package in intliji and you have to make sure that the binary files in all the classes are opened correctly there might be more that 10 files to open.
+
+2- make sure all the classes and files are loaded
+
+3- the photos in the assets are also loaded correctly
+
+4- load the main and run it
+
+5- you will see the login/register page, sign in as an admin or a student and the program should be ready to use
