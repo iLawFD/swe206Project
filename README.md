@@ -34,7 +34,8 @@ Here you can add teams to team tournment or students to indv tournment
 
 # Generating a table & seeing the table of matches
 
-After adding 6 teams, we can generate a table of matches ( with the number being the day diff between matches)
+After adding  players ( teams or students ) , we can generate a table of matches ( with the number being the day diff between matches)
+i added 6 teams to the tournmant i created above
 
 ![Screenshot (14)](https://github.com/iLawFD/swe206Project/assets/88871860/3ee666d0-f669-476f-9da2-dfc75441c43a)
 
